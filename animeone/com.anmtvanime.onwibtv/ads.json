@@ -1,0 +1,30 @@
+{
+  "ConfigApp": {
+    "useSource1": false,
+    "playInPlayer": false,
+    "playerPackage": "com.playerfirestick.app",
+    "ShowWatchButton": false
+  },
+  "HomeSliders": [
+    {
+      "link": "https://www.aniwave.se/anime-watch/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack/ep-1",
+      "Genre": "Action, Drama, Fantasy",
+      "Rating": 4.8,
+      "Duration": "24 min",
+      "AnimeName": "Attack on Titan",
+      "AnimePoster": "https://cdn.aniwave.se/posters/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack.png",
+      "AnimeThumbnail": "https://images.immediate.co.uk/production/volatile/sites/3/2023/11/attack-on-titan-watch-order-664c3eb.jpg?quality=90&resize=980,654",
+      "AnimeDescription": "After his hometown is destroyed, Eren Yeager vows to destroy every last titan."
+    },
+    {
+      "link": "https://www.aniwave.se/anime-watch/jujutsu-kaisen-2nd-season/ep-1",
+      "Genre": "Action, Supernatural",
+      "Rating": 4.5,
+      "Duration": "23 min",
+      "AnimeName": "Jujutsu Kaisen",
+      "AnimePoster": "https://cdn.aniwave.se/posters/jujutsu-kaisen-2nd-season.png",
+      "AnimeThumbnail": "https://p325k7wa.twic.pics/high/jujutsu-kaisen/jujutsu-kaisen-cursed-clash/00-page-setup/JJK-header-mobile2.jpg?twic=v1/resize=760/step=10/quality=80",
+      "AnimeDescription": "Yuji Itadori joins a secret organization of sorcerers to exorcise a powerful curse."
+    }
+  ]
+}
